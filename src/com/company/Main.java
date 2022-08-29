@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        //write code here
+        //write your code here
         solarSystem inception = new solarSystem();
         inception.Sun = 1;
         inception.Moon = 4;
@@ -10,5 +10,13 @@ public class Main {
 
         System.out.println("The basic structure is ready...☽");
 
+        //developing the feature Sun
+        Sun omaro = new Sun();
+        omaro.temperature = "12334433kj";
+        omaro.name = "ferro";
+        omaro.radius = 12344555454545455454;
+        omaro.color = "pink";
     }
+
 }
+
