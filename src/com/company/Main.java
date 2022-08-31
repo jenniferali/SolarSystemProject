@@ -23,10 +23,12 @@ public class Main {
         superplanet.name = "hash";
         superplanet.size = "545488";
 
-
-
+        // planet 2
+        Planet2 superwomen = new Planet2();
+        superwomen.size = "766585857 km";
+        superwomen.name = "pliea";
+        superwomen.color = "green";
 
     }
-
 }
 
